@@ -1,0 +1,10 @@
+#container {
+    background: aqua;
+    position:relative;
+    height: 100px;
+}
+#copyright {
+    background: orange;
+    position:absolute;
+    bottom:0;
+}
