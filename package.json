@@ -1,0 +1,41 @@
+{
+  "name": "innosphere",
+  "version": "1.0.0",
+  "description": "Test task for portfolio (innosphere, service)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimetrio-ua/innosphere.git"
+  },
+  "keywords": [
+    "test",
+    "portfolio",
+    "service"
+  ],
+  "author": "Dmytro Botnarenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimetrio-ua/innosphere/issues"
+  },
+  "homepage": "https://github.com/dimetrio-ua/innosphere#readme",
+  "devDependencies": {
+    "autoprefixer": "^6.3.7",
+    "browser-sync": "^2.13.0",
+    "css-mqpacker": "^5.0.1",
+    "cssnano": "^3.7.1",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^6.1.1",
+    "gulp-rename": "^1.2.2",
+    "normalize.css": "^4.2.0",
+    "pixrem": "^3.0.1",
+    "postcss-color-rgba-fallback": "^2.2.0",
+    "postcss-import": "^8.1.2",
+    "postcss-opacity": "^4.0.0",
+    "postcss-pseudoelements": "^3.0.0",
+    "postcss-vmin": "^2.0.0",
+    "precss": "^1.4.0"
+  }
+}
