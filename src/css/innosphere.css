@@ -1,10 +1,15 @@
-#container {
-    background: aqua;
-    position:relative;
-    height: 100px;
+@import 'normalize.css/normalize.css';
+@import 'base.css';
+@import 'colors.css';
+
+html {
 }
-#copyright {
-    background: orange;
-    position:absolute;
-    bottom:0;
+
+body {
+  margin: auto;
+  width: 1200px; /*should be 1400px*/
+  border-style: dashed;
+  border-width: 1px;
+  background-color: $main_color;
+  border-color: $border_color;
 }
